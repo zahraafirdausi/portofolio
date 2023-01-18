@@ -7,24 +7,24 @@ Kumpulan Projek yang pernah dikerjakan
 Rancang Bangun Sistem Sortir Buah Tomat Berdasarkan Warna RGB Menggunakan Arduino Uno R3. Proyek ini dibuat untuk tugas akhir Pengantar Sistem Tertanam dan Robotika.
 [LINK REPO Fruit Color Sorter](https://github.com/zahraafirdausi/fruit-color-sorter) 
 
-### 2. Identification of Banana Ripness Using Convolution Neural Network (CNN)
+### - Identification of Banana Ripness Using Convolution Neural Network (CNN)
 Identifikasi Kematangan Buah Pisang menggunakan Pendekatan Convolution Neural Network. Membuat Model untuk mengidentifikasi kematangan pada buah pisang dengan menggunakan pendekatan convolution neural network. Proyek ini dibuat untuk tugas akhir Pengolahan Citra Digital.
 [LINK REPO Identification of Banana Ripness Using CNN](https://github.com/zahraafirdausi/Identification-of-Banana-Ripeness-using-CNN) 
 
-### 3. Optimization of job shop scheduling problem using Genetic Algorithm and Constraint Satisfaction Problem
+### - Optimization of job shop scheduling problem using Genetic Algorithm and Constraint Satisfaction Problem
 Optimasi Permasalahan Job Shop Scheduling menggunakan Genetic Algorithm dan Constraint Satisfaction Problem.
 Perancangan sistem untuk Menemukan solusi yang paling optimal dalam permasalah job shop scheduling dengan membandingkan genetic algorithm dan backtracking algorithm yang didapat dari penelitian sebelumnya. Proyek ini dibuat untuk tugas akhir Sistem Cerdas. 
 [LINK REPO Optimization of job shop scheduling problem using GA and CSP](https://github.com/zahraafirdausi/Optimization-of-job-shop-scheduling-problem-using-GA.) 
 
-### 4. Solving Job Shop Scheduling problem Using Backtracking Algorithm
+### - Solving Job Shop Scheduling problem Using Backtracking Algorithm
 Penerapan Constraint Satisfaction Problem pada Permasalahan Job Shop Scheduling dengan Menggunakan Algoritma Backtracking. Perancangan sistem mengatasi permasalahan job shop scheduling menggunakan algoritma backtracking. Proyek ini dibuat untuk tugas akhir Kecerdasan Buatan.
 [LINK REPO Solving Job Shop Scheduling problem Using Backtracking Algorithm](https://github.com/zahraafirdausi/Solving-Job-Shop-Scheduling-problem-Using-Backtracking-Algorithm.) 
 
-### 5. Penerapan Algoritma Greedy dalam Strategi Permainan Monopoli
+### - Penerapan Algoritma Greedy dalam Strategi Permainan Monopoli
 Penerapan algoritma greedy dalam menentukan strategi terbaik untuk mendapatkan uang sebanyak-banyaknya dengan penggunaan modal seoptimal mungkin pada permainan Monopoli. Proyek ini dibuat untuk tugas akhir Analisis Algoritme.
 [LINK REPO Penerapan Algoritma Greedy dalam Strategi Permainan Monopoli](https://github.com/zahraafirdausi/Penerapan-Algoritma-Greedy-dalam-Strategi-Permainan-Monopoli.) 
-
-### Sistem Informasi berbasis Web dan Game
+-----------------------------------------------------
+## Sistem Informasi berbasis Web dan Game
 
 | Project Name      | Description                          | Role                  | URL        |
 | ----------------- | ------------------------------------ | --------------------- |----------- |
