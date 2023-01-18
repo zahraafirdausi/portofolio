@@ -26,7 +26,7 @@ Penerapan algoritma greedy dalam menentukan strategi terbaik untuk mendapatkan u
 
 ---------------------------------------------------------
 
-## Sistem Informasi berbasis Web dan Game
+## Sistem Informasi berbasis Web
 
 | Project Name      | Description                          | Role                  | URL        |
 | ----------------- | ------------------------------------ | --------------------- |----------- |
