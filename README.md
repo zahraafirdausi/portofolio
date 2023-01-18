@@ -1,7 +1,7 @@
 # Portofolio
 Kumpulan Projek yang pernah dikerjakan
 ---------------------------------------------------------------
-2020 - 2021 :
+2020 - 2022 :
 
 ### - Fruit Color Sorter
 Rancang Bangun Sistem Sortir Buah Tomat Berdasarkan Warna RGB Menggunakan Arduino Uno R3. Proyek ini dibuat untuk tugas akhir Pengantar Sistem Tertanam dan Robotika.
