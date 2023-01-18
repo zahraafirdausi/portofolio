@@ -1,4 +1,4 @@
-# portofolio
+# Portofolio
 Kumpulan Projek yang pernah dikerjakan
 ---------------------------------------------------------------
 2020 - 2021 :
@@ -23,7 +23,9 @@ Penerapan Constraint Satisfaction Problem pada Permasalahan Job Shop Scheduling 
 ### - Penerapan Algoritma Greedy dalam Strategi Permainan Monopoli
 Penerapan algoritma greedy dalam menentukan strategi terbaik untuk mendapatkan uang sebanyak-banyaknya dengan penggunaan modal seoptimal mungkin pada permainan Monopoli. Proyek ini dibuat untuk tugas akhir Analisis Algoritme.
 [LINK REPO Penerapan Algoritma Greedy dalam Strategi Permainan Monopoli](https://github.com/zahraafirdausi/Penerapan-Algoritma-Greedy-dalam-Strategi-Permainan-Monopoli.) 
------------------------------------------------------
+
+---------------------------------------------------------
+
 ## Sistem Informasi berbasis Web dan Game
 
 | Project Name      | Description                          | Role                  | URL        |
